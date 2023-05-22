@@ -1,6 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Task Manager - README</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
     <h1>Task Manager</h1>
-    Live Code: https://thestevendev.github.io/Task-Manager/
     <p>This is a simple Task Manager web application built using HTML, CSS, and JavaScript.</p>
     
     <h2>Features</h2>
@@ -23,5 +30,6 @@
     
     <h2>License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
-
-
+  </div>
+</body>
+</html>
