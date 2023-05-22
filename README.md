@@ -1,10 +1,6 @@
-<!DOCTYPE html>
+
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Task Manager - README</title>
-  <link rel="stylesheet" href="style.css">
-</head>
+
 <body>
   <div class="container">
     <h1>Task Manager</h1>
